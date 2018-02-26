@@ -115,6 +115,7 @@ footer {
 /* sidebar */
 
 aside {
+
   section {
     padding: 10px 0;
     margin-top: 20px;
@@ -145,6 +146,7 @@ section.user_info {
     margin-top: 15px;
   }
 }
+
 
 .gravatar {
   float: left;
@@ -192,8 +194,6 @@ input {
   position: relative;
   right: 0;
 }
-/* statuses */
-
 .statuses {
   list-style: none;
   padding: 0;
@@ -244,3 +244,6 @@ aside {
 .status_form {
   margin-top: 20px;
 }
+
+
+
